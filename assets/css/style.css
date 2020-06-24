@@ -11,7 +11,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #0d0f1b;
+    background: #5E4944;
     overflow: hidden;
 }
 ul
@@ -51,7 +51,7 @@ ul li a
     display: inline-block;
     padding: 6px 15px;
     text-decoration: none;
-    background: #2196f3;
+    background: #908FAA;
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -65,9 +65,9 @@ ul:hover li a
 }
 ul li a:hover
 {
-    transform: scale(1.4);
+    transform: scale(1.7);
     z-index: 1000;
-    background: #ff3f81;
+    background: #BD2A07;
     opacity: 1;
 }
 ul li a:before
